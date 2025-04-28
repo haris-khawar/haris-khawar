@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Haris Khawar</h1>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" style="display:inline;"> I'm Haris
+</h1>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Currently%20Learning-MERN%20Stack-blue?style=for-the-badge&logo=react" alt="Learning Badge" />

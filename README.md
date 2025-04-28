@@ -23,17 +23,17 @@
 
 📈 **GitHub Stats**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haris-khawar&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 🔥 **GitHub Streak**  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=haris-khawar&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 🏆 **Trophies**  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=haris-khawar&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---

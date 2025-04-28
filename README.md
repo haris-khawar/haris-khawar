@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haris Khawar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Aspiring+MERN+Stack+Developer;Currently+Learning+HTML+%26+CSS;Future+Full-Stack+Engineer+🚀" alt="Typing Animation" />
+  <img src="https://img.shields.io/badge/Currently%20Learning-MERN%20Stack-blue?style=for-the-badge&logo=react" alt="Learning Badge" />
 </p>
 
 ---
